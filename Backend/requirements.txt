@@ -6,3 +6,4 @@ certifi==2025.11.12
 djangorestframework-simplejwt==5.4.0
 psycopg==3.2.0
 reportlab==4.2.0
+razorpay==1.4.2
