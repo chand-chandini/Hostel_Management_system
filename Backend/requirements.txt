@@ -4,4 +4,5 @@ django-cors-headers==4.0.0
 gunicorn==21.2.0
 certifi==2025.11.12
 djangorestframework-simplejwt==5.4.0
-psycopg2-binary==2.9.9
+psycopg==3.2.0
+dj-database-url==2.1.0
