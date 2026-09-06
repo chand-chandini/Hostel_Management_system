@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = import.meta.env?.VITE_API_URL || 'http://127.0.0.1:8000/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://hostel-management-system-1-up0y.onrender.com/api/';
 
 // 1. Create instances
 const api = axios.create({
